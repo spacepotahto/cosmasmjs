@@ -1,1 +1,1 @@
-# cosmosjs
+# cosmasmjs
